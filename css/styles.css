@@ -1,0 +1,159 @@
+body {
+  text-align: center;
+  background-color: #f96d80 ;
+}
+
+h1 {
+    margin:40px 70px;
+    font-family: 'Archivo Black', sans-serif;
+    color:#ff5151;
+    font-size:3rem;
+}
+
+h2,h3 {
+  font-family: 'Lobster Two', cursive;
+  color:#3282b8;
+  margin: 20px 60px;
+  font-size: 3rem;
+  text-align: right;
+}
+
+
+img {
+  height:60px;
+  width:60px;
+  margin:0 10px 0 0;
+}
+
+/*bar*/
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.nav-item {
+  padding:0 15px;
+}
+.nav-link {
+  font-size: 1.5rem;
+}
+.nav-link:hover {
+  font-size: 1.8rem;
+}
+
+/*heading*/
+#heading {
+  background-color: #fbd46d;
+}
+.d-block {
+  height:300px;
+  width:60%;
+  margin:40px 100px;
+}
+
+/*objective*/
+.row {
+  background-color: #6ebfb5;
+  margin-right: auto;
+
+}
+.help {
+  height:300px;
+  width:300px;
+  margin:70px 0;
+}
+
+/*founder*/
+
+.container-fluid {
+  background-color: #fff;
+
+}
+.priya {
+  height:7rem;
+  width:7rem;
+  float:left;
+
+}
+.sakthi {
+  height:7rem;
+  width:7rem;
+  float:right;
+
+}
+/*testimonials*/
+#testimonial {
+  position: relative;
+  z-index:1;
+  bottom:40px;
+}
+.testimonials {
+  background-color: #848ccf;
+
+}
+.card-img1,.card-img2 {
+  height:150px;
+  width:220px;
+  margin-top: 30px;
+
+}
+.container {
+    padding-bottom:40px;
+}
+/*  */
+
+p {
+  font-size: 1rem;
+  font-weight: bolder;
+  font-family: 'Adamina', serif;
+  padding: 25px 30px;
+}
+
+/*Events*/
+
+.eventheading {
+  margin: 0 0;
+  color:#222831;
+}
+
+.c-block {
+  height:400px;
+  width:60%;
+  margin:20px 20px;
+}
+
+@media(max-width:576px){
+  #events {
+    text-align: center;
+    margin-left:0;
+  }
+  }
+
+
+/*box*/
+.box {
+  background-color: #cffffe;
+  padding:20px 0;
+}
+
+
+
+/*Finish*/
+
+.finish {
+
+    background-color: #50d890;
+}
+.aa {
+  font-size: 15px;
+  font-weight: bolder;
+  font-family: serif;
+  padding: 0 0;
+  margin:0 0;
+}
+.fab {
+  margin:15px 15px ;
+}
+
+.far {
+  margin:15px 15px ;
+}
